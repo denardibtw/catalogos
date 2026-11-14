@@ -17,7 +17,7 @@ window.CATALOGOS = [
     "nicho": "Estética automotiva",
     "grupo": "Serviços",
     "formato": "A4 · PDF",
-    "descricao": "Vitrificação, proteção de pintura e uma apresentação completa dos serviços.",
+    "descricao": "Tabela por porte do veículo, vitrificação com durabilidade e comparativo de pacotes.",
     "acao": "Explorar catálogo",
     "cores": {
       "capa": "radial-gradient(ellipse at 50% 65%, #635427, #28261d 60%, #1b1b18)",
@@ -31,26 +31,26 @@ window.CATALOGOS = [
       },
       {
         "imagem": "pagina-02.webp",
-        "texto": "VORTEX\nESTÉTICA AUTOMOTIVA\nSERVIÇOS\nDETALHES QUE\nFAZEM DIFERENÇA.\nPREPARAÇÃO + PROTEÇÃO\n01\nPOLIMENTO TÉCNICO\nCorreção de marcas superficiais e refinamento do\nverniz para recuperar profundidade, brilho e reflexo.\n02\nVITRIFICAÇÃO\nProteção cerâmica para preservar o acabamento e\ntornar os cuidados do dia a dia mais práticos.\n03\nPELÍCULA PPF\nProteção transparente em áreas estratégicas ou na\ncarroceria inteira. Acabamento brilho ou fosco.\n04\nCUIDADO COMPLETO\nAtenção a rodas, pinças e vidros para completar o\ntratamento e valorizar cada detalhe do veículo.\nVORTEX  /  CATÁLOGO DE SERVIÇOS\n02 / 04"
+        "texto": "V VORTEXESTÉTICA AUTOMOTIVA\nTABELA DE SERVIÇOS 2026\nVALORES EM R$ · POR PORTE\nLavagem & interior\nO valor depende do porte. Carros com barro, pelos de pet ou muito sujos podem ter acréscimo após avaliação na entrada.\nLavagem\nHATCH · SEDAN\nSUV\nPICAPE · VAN\nLavagem simples\nExterna, aspiração e pretinho\n50\n60\n70\nLavagem completa\nExterna detalhada, interna, vidros e caixas de roda\n90\n110\n130\nLavagem com cera\nCompleta + cera de carnaúba\n120\n140\n160\nLavagem de motor\nCom proteção dos componentes\n60\n70\n80\nInterior\nHATCH · SEDAN\nSUV\nPICAPE · VAN\nHigienização interna\nBancos, carpete, teto e portas com extratora\n280\n330\n380\nHidratação de couro\nLimpeza e hidratação dos bancos\n180\n200\n220\nOxi-sanitização\nAr-condicionado e cabine, elimina odores\n90\n90\n110\nLimpeza de teto\nRemoção de manchas\n120\n140\n160\nMarca fictícia criada para portfólio. Valores ilustrativos."
       },
       {
         "imagem": "pagina-03.webp",
-        "texto": "VORTEX\nESTÉTICA AUTOMOTIVA\nSERVIÇOS & VALORES\nINVISTA NO\nSEU PATRIMÔNIO.\nEscolha o nível de proteção ideal para o seu veículo.\nTRATAMENTO\nA PARTIR DE\nVitrificação Nano 9H\nProteção cerâmica - 3 anos\nR$ 00,00\nRevestimento Grafeno 10H\nProteção avançada - 5 anos\nR$ 00,00\nRodas, pinças e vidros\nProteção complementar\nR$ 00,00\nPPF Kit frontal\nPara-choque, capô e faróis\nR$ 00,00\nPPF Full body\nProteção da carroceria inteira\nR$ 00,00\nCADA CARRO, UMA AVALIAÇÃO.\nO orçamento considera o porte do veículo, o estado da pintura e a solução escolhida. Consulte as\ncondições de pagamento.\nValores ilustrativos para apresentação deste projeto de portfólio.\nVORTEX  /  CATÁLOGO DE SERVIÇOS\n03 / 04"
+        "texto": "V VORTEXESTÉTICA AUTOMOTIVA\nPOLIMENTO E PROTEÇÃO\nVALORES EM R$ · POR PORTE\nBrilho que dura\nPolimento\nHATCH · SEDAN\nSUV\nPICAPE · VAN\nPolimento comercial\n1 etapa · realce de brilho\n350\n420\n490\nPolimento técnico\nCorte + refino · remove riscos leves\n750\n850\n950\nFaróis\nRevitalização do par, com proteção UV\n180\n180\n200\nPlásticos externos\nPara-choques e frisos\n120\n150\n180\nVitrificação · durabilidade\n0 ———— 5 ANOS\nHATCH\nSUV\nPICAPE\nVitrificação 1 ano\nSelante cerâmico de entrada\n1 ano\n900\n1.100\n1.300\nVitrificação 3 anos\nCerâmica 9H\n3 anos\n1.600\n1.900\n2.200\nVitrificação 5 anos\nGrafeno · revisão semestral\n5 anos\n2.400\n2.800\n3.200\nTodas as vitrificações incluem lavagem técnica, descontaminação e polimento de preparação. Vitrificação de vidros: a partir de R$ 150.\nPPF · película de proteção\nKit frontal\nPara-choque, capô parcial, faróis e retrovisores\na partir de 2.900\nFull body\nCarroceria completa, brilho ou fosco\nsob consulta\nMarca fictícia criada para portfólio. Valores ilustrativos."
       },
       {
         "imagem": "pagina-04.webp",
-        "texto": "VORTEX\nESTÉTICA AUTOMOTIVA\nO PRÓXIMO PASSO\nPRONTO PARA\nOUTRO NÍVEL?\nSeu carro merece atenção de verdade.\nAGENDE SUA AVALIAÇÃO.\nInforme o modelo do veículo e o serviço desejado.\nA próxima transformação começa com uma conversa.\nVORTEX  /  ESTÉTICA AUTOMOTIVA\n04 / 04"
+        "texto": "V VORTEXESTÉTICA AUTOMOTIVA\nPACOTES · HATCH/SEDAN\nSUV +15% · PICAPE +25%\nPacotes Vortex\nRevenda\nR$ 590\npra vender bem\nCarro Novo\nR$ 1.790\nproteção desde o 0 km\nCompleto\nR$ 2.690\no tratamento inteiro\nLavagem completa\n✓\n✓\n✓\nDescontaminação\n—\n✓\n✓\nPolimento comercial\n✓\n—\n—\nPolimento técnico\n—\n—\n✓\nVitrificação 3 anos\n—\n✓\n✓\nHigienização interna\n✓\n—\n✓\nVitrificação de vidros\n—\n✓\n✓\nOxi-sanitização\n—\n✓\n✓\nRevitalização de faróis\n✓\n—\n✓\nPlano mensal de lavagem\n4 lavagens completas por mês com horário reservado. Sem fidelidade.\nHATCH/SEDAN .. R$ 299\nSUV .......... R$ 349\nPICAPE ....... R$ 399\nAGENDE\n(16) 99999-0890\n@vortexestetica\nENDEREÇO\nAv. Presidente Vargas, 2.100\nHORÁRIO\nSeg a sex 8h às 18h\nSáb 8h às 13h\nEXTRAS\nLeva e traz grátis até 5 km\nPix ou cartão em 6×\nMarca fictícia criada para portfólio. Valores ilustrativos."
       }
     ]
   },
   {
     "id": "kumo",
-    "nome": "Kumo Izakaya",
-    "titulo": "Kumo | Izakaya & Omakase",
+    "nome": "Kumo Sushi",
+    "titulo": "Kumo | Sushi & Delivery",
     "nicho": "Restaurante japonês",
     "grupo": "Gastronomia",
     "formato": "A4 · PDF",
-    "descricao": "Omakase, cortes especiais e bebidas em uma experiência de menu digital.",
+    "descricao": "Combinados peça por peça, à la carte, yakisoba e rodízio em um cardápio de delivery.",
     "acao": "Explorar cardápio",
     "cores": {
       "capa": "radial-gradient(ellipse at 50% 65%, #743435, #302022 60%, #20191b)",
@@ -60,30 +60,30 @@ window.CATALOGOS = [
     "paginas": [
       {
         "imagem": "pagina-01.webp",
-        "texto": "KUMO\nIZAKAYA & OMAKASE\nO Japão,\nà sua mesa.\nFRESCOR. TÉCNICA. DESCOBERTA.\nSABORES QUE FICAM\nNA MEMÓRIA.\nCARDÁPIO\n01 / 04"
+        "texto": "KUMO\nSUSHI · DELIVERY\nO Japão,\nà sua mesa.\nFRESCOR. TÉCNICA. DESCOBERTA.\nSABORES QUE FICAM\nNA MEMÓRIA.\nCARDÁPIO\n01 / 04"
       },
       {
         "imagem": "pagina-02.webp",
-        "texto": "KUMO\nIZAKAYA & OMAKASE\nOMAKASE & NIGIRIS\nDeixe o chef\nsurpreender.\n14 ETAPAS\nR$ 00,00\nPOR PESSOA\nUma sequência de sabores conduzida pelo chef, com cortes\nselecionados e atenção a cada preparo.\nSELEÇÃO DO SUSHIMAN\nOtoro com trufa\nDupla de nigiris de barriga de atum.\nR$ 00,00\nVieira canadense maçaricada\nDupla de nigiris com finalização na chama.\nR$ 00,00\nKUMO  /  MENU\n02 / 04"
+        "texto": "雲\nKUMOSUSHI · DELIVERY\nCombinados\npeça por peça.\nsashimi\nniguiri\nuramaki\nhot\nhossomaki\njoy\n· 1 ponto = 1 peça\n20PEÇAS · SERVE 1\nCombinado 20\nR$ 64,90\n30PEÇAS · SERVE 2\nCombinado 30\nR$ 94,90\n40PEÇAS · SERVE 2 A 3\nCombinado 40\nR$ 124,90\n60PEÇAS · SERVE 4\nCombinado 60\nR$ 179,90\n24PEÇAS · SÓ SALMÃO\nSó Salmão\nR$ 99,90\n20PEÇAS · HOT\nCombinado Hot\nR$ 54,90\nCombinado do Dia · 26 peças + 2 temakis\nSeleção do sushiman. Seg a qui, só no delivery.\nR$ 89,90\nMarca fictícia criada para portfólio. Valores e imagens ilustrativos."
       },
       {
         "imagem": "pagina-03.webp",
-        "texto": "KUMO\nIZAKAYA & OMAKASE\nCOMBINADOS & GRELHA\nPara dividir.\nOu não.\nCOMBINADO KUMO IMPERIAL\n28 peças para uma experiência completa.\nR$ 00,00\nWagyu A5 japonês na brasa\nPorção de 100 g, preparada na brasa Binchotan.\nR$ 00,00\nCarpaccio de robalo com yuzu\nUsuzukuri: cortes delicados e um toque cítrico.\nR$ 00,00\nValores ilustrativos deste projeto de portfólio. Imagens ilustrativas.\nKUMO  /  MENU\n03 / 04"
+        "texto": "雲\nKUMOSUSHI · DELIVERY\nÀ la carte, do seu jeito.\nTEMAKIS\nSalmão\n32,90\nSalmão c/ cream cheese\n34,90\nHotsalmão empanado\n29,90\nCamarão empanado\n33,90\nKani\n24,90\nAtum\n34,90\nSASHIMIS E NIGUIRIS\nSashimi salmão10 fatias\n44,90\nSashimi atum10 fatias\n52,90\nNiguiri salmão2 un\n14,90\nJoy salmão4 un\n26,90\nCarpacciosalmão\n42,90\nCevichesalmão e tilápia\n39,90\nROLLS\nUramaki filadélfia8 un\n29,90\nHot filadélfia10 un\n29,90\nHossomaki salmão8 un\n19,90\nHossomaki pepino8 un\n14,90\nUramaki skin8 un\n26,90\nHot bananadoce de leite · 10 un\n24,90\nValores em R$. Marca fictícia criada para portfólio. Valores e imagens ilustrativos."
       },
       {
         "imagem": "pagina-04.webp",
-        "texto": "KUMO\nIZAKAYA & OMAKASE\nSAQUÊS & DRINKS\nUm brinde\nao encontro.\nCARTA DE BEBIDAS\nKumo Yuzu Gin Tonic\nFrescor cítrico em um coquetel autoral.\nR$ 00,00\nDassai 23 Junmai Daiginjo\nSaquê japonês - garrafa de 720 ml.\nR$ 00,00\nSUA MESA ESPERA POR VOCÊ.\nEscolha seu momento. Viva o KUMO.\n04 / 04"
+        "texto": "雲\nKUMOSUSHI · DELIVERY\nRODÍZIO\nNo salão: sushis, sashimis, temakis, hots, pratos quentes e sobremesa à vontade. Crianças de 6 a 10 anos pagam meia. Bebidas e 10% à parte.\nSEG\n99,90\nTER\n99,90\nQUA\n99,90\nQUI\n99,90\nSEX\n119,90\nSÁB\n119,90\nDOM\n119,90\nJantar de terça a domingo, 18h30 às 23h. Almoço sábado e domingo, 11h30 às 15h.\nPRATOS QUENTES\nINDIV.\nFAMÍLIA\nYakisoba de frango\n38,90\n69,90\nYakisoba de carne\n42,90\n76,90\nYakisoba misto\n44,90\n79,90\nYakisoba de legumes\n34,90\n62,90\nENTRADAS E BEBIDAS\nGuioza6 un\n24,90\nHarumaki4 un\n19,90\nShimeji na manteiga\n34,90\nMissoshiru\n12,90\nRefrigerante lata\n6,90\nSaquê nacionaldose\n14,00\nDELIVERY\n(16) 99999-0678\niFood · @kumosushi\nENDEREÇO\nRua Garibaldi, 1.330\nJardim Sumaré\nPAGAMENTO\nPix, cartão e VR\nEntrega 18h às 23h\nMarca fictícia criada para portfólio. Valores e imagens ilustrativos."
       }
     ]
   },
   {
     "id": "litho",
     "nome": "Litho Marmoraria",
-    "titulo": "Litho | Rochas Ornamentais",
+    "titulo": "Litho | Marmoraria",
     "nicho": "Marmoraria",
     "grupo": "Serviços",
     "formato": "A4 · PDF",
-    "descricao": "Rochas selecionadas, acabamentos e possibilidades para projetos exclusivos.",
+    "descricao": "Mostruário de pedras com preço por m², produtos cotados e o passo a passo do orçamento.",
     "acao": "Explorar catálogo",
     "cores": {
       "capa": "radial-gradient(ellipse at 50% 65%, #777974, #414440 60%, #282a28)",
@@ -97,15 +97,15 @@ window.CATALOGOS = [
       },
       {
         "imagem": "pagina-02.webp",
-        "texto": "LITHO\nMARMORARIA\n01 — A MATÉRIA\nCada rocha,\numa expressão.\nTons, veios e texturas que tornam cada composição única. Uma seleção para diferentes\nformas de habitar.\nCOLEÇÃO DE ROCHAS\nREFERÊNCIA / m²\n01\nCalacatta Viola\nMármore de veios marcantes.\nPresença e contraste para interiores.\nR$ 00,00\n02\nTaj Mahal\nQuartzito de tons suaves.\nUma composição de presença acolhedora.\nR$ 00,00\n03\nTravertino Romano\nTextura natural e desenho atemporal.\nLeveza para composições arquitetônicas.\nR$ 00,00\nBELEZA QUE NÃO SE REPETE.\nVeios e tonalidades variam entre chapas. A escolha final é feita pela amostra. Valores demonstrativos para este portfólio.\nLITHO  /  ROCHAS & ARQUITETURA\n02 / 04"
+        "texto": "LITHOMARMORARIA\nMOSTRUÁRIO 2026\nFOLHA 02 / 04\nMostruário de pedras.\nPreço por m² do material polido, espessura 2 cm, acabamento reto. Instalação, recortes, cubas e bordas especiais são orçados à parte. As cores e veios variam de chapa para chapa.\nPreto São Gabriel\nTipoGranitoOrigemES · BRUsocozinha, área gourmetR$ 520 /m²\nBranco Itaúnas\nTipoGranitoOrigemES · BRUsocozinha, lavatórioR$ 560 /m²\nVerde Ubatuba\nTipoGranitoOrigemSP · BRUsocozinha, soleiraR$ 480 /m²\nCinza Andorinha\nTipoGranitoOrigemMG · BRUsopiso, escada, soleiraR$ 420 /m²\nBranco Dallas\nTipoGranitoOrigemES · BRUsocozinha, ilhaR$ 590 /m²\nPreto Absoluto\nTipoGranitoOrigemBA · BRUsobancada, mesaR$ 980 /m²\nBranco Piguês\nTipoMármoreOrigemES · BRUsobanheiro, lavaboR$ 690 /m²\nTravertino Nacional\nTipoMármoreOrigemBA · BRUsolavabo, paredeR$ 780 /m²\nCarrara\nTipoMármoreOrigemItáliaUsolavabo, mesaR$ 1.290 /m²\nBranco Stellar\nTipoQuartzoOrigemindustrializadoUsocozinha brancaR$ 1.450 /m²\nCinza Concreto\nTipoQuartzoOrigemindustrializadoUsocozinha, ilhaR$ 1.390 /m²\nSilestone · Dekton\nTipoSuperfícieOrigemimportadoUsolinha completaconsulte\nMarca fictícia criada para portfólio. Valores ilustrativos. Amostras representativas."
       },
       {
         "imagem": "pagina-03.webp",
-        "texto": "LITHO\nMARMORARIA\n02 — O PROJETO\nPrecisão em\ncada encontro.\nBANCADAS & CUBAS ESCULPIDAS\n01\nCorte & união\nEncontros em meia-esquadria\npara valorizar o desenho da pedra.\n02\nForma & função\nCubas e bancadas desenvolvidas\na partir das medidas do projeto.\n03\nToque & textura\nAcabamentos selecionados de\nacordo com o uso e a proposta.\nImagem ilustrativa de aplicação.\nLITHO  /  ROCHAS & ARQUITETURA\n03 / 04"
+        "texto": "LITHOMARMORARIA\nPRODUTOS E SERVIÇOS\nFOLHA 03 / 04\nDa cozinha à escada.\nPRODUTOS\nMEDIDAS EM MM\n2000cubaBancada de cozinha\nAté 2,0 m em São Gabriel, recorte de cuba e saia de 4 cm.\na partir de R$ 1.290\n1000Lavatório com cuba esculpida\nAté 1,0 m, em granito ou quartzo.\na partir de R$ 980\n1 metro linear150 mmSoleira e peitoril\nPor metro linear. Peitoril com pingadeira.\nR$ 75 · R$ 85 / m\npiso 300 · espelho 170Degrau de escada\nPiso + espelho, por degrau.\nR$ 220 / degrau\nsob projetoIlha e bancada gourmet\nCom recorte de cooktop e churrasqueira.\nsob medida\n600 × 300h 70Nicho e rodapé\nNicho 60 × 30 cm para box. Rodapé de 7 cm.\nR$ 180 · R$ 45 / m\nACABAMENTO DE BORDA\nPOR METRO LINEAR\nReta\nincluso\nMeia-esquadria\nR$ 120 / m\nBoleada\nR$ 45 / m\nChanfrada\nR$ 40 / m\nMarca fictícia criada para portfólio. Valores ilustrativos."
       },
       {
         "imagem": "pagina-04.webp",
-        "texto": "LITHO\nMARMORARIA\n03 — SUA IDEIA\nSeu projeto.\nNossa matéria.\nDa primeira referência ao acabamento: uma conversa sobre\nproporção, textura e possibilidades.\nFEITO PARA O SEU ESPAÇO.\nVamos dar forma à sua ideia?\n01\nCompartilhe o projeto\nEnvie a planta, as medidas e suas referências.\n02\nEscolha a matéria\nDefina a rocha e o acabamento com orientação.\n03\nReceba sua proposta\nUma composição sob medida para o seu espaço.\nPLANEJAR É O PRIMEIRO PASSO.\nLITHO  /  ROCHAS & ARQUITETURA\n04 / 04"
+        "texto": "LITHOMARMORARIA\nORÇAMENTO\nFOLHA 04 / 04\nDo orçamento à instalação.\nETAPA 01Medidas ou projeto\nEnvie fotos, planta e a pedra que você gosta pelo WhatsApp.\nETAPA 02Medição grátis\nVisita técnica em Ribeirão Preto e região.\nETAPA 03Escolha da chapa\nVocê aprova a chapa inteira no pátio antes do corte.\nETAPA 04Produção\n7 a 12 dias úteis, com acabamento feito aqui.\nETAPA 05Instalação\nEquipe própria, limpeza da obra e 1 ano de garantia.\nPAGAMENTO\nPix ou dinheiro com 5% de desconto. Cartão em até 10× sem juros. Entrada de 50% e o restante na instalação.\nATENDIMENTO\nWhatsApp (16) 99999-0789\n@lithomarmoraria\nConstrutoras e arquitetos com condição especial.\nSHOWROOM\nAv. das Indústrias, 1.250\nSeg a sex, 7h30 às 17h30\nSábado, 8h às 12h\nMarca fictícia criada para portfólio. Valores ilustrativos."
       }
     ]
   },
@@ -116,7 +116,7 @@ window.CATALOGOS = [
     "nicho": "Hamburgueria",
     "grupo": "Gastronomia",
     "formato": "A4 · PDF",
-    "descricao": "Burgers na brasa, acompanhamentos e combos em um cardápio cheio de personalidade.",
+    "descricao": "Burgers de 160 g, smash, combos, molhos e a semana de promoções da hamburgueria.",
     "acao": "Explorar cardápio",
     "cores": {
       "capa": "radial-gradient(ellipse at 50% 65%, #68251e, #211c20)",
@@ -130,15 +130,15 @@ window.CATALOGOS = [
       },
       {
         "imagem": "pagina-02.webp",
-        "texto": "BRAVO\n01 / BURGERS\nDA GRELHA\nPRO SEU DIA.\nPão macio, carne na brasa e combinações que não economizam no sabor.\nBRAVO ORIGINAL\nR$ 00,00\nPão brioche, burger bovino, cheddar, picles e molho da casa.\nDUPLO BRASA\nR$ 00,00\nDois burgers, cheddar em dobro, bacon crocante e maionese da casa.\nVERDE BRAVO\nR$ 00,00\nBurger de grão-de-bico, folhas, tomate e maionese de ervas.\nSEU BURGER, DO SEU JEITO.\nConsulte opções de adicionais ao fazer seu pedido.\nValores demonstrativos. Imagens ilustrativas.\nBRAVO / BURGER & BRASA\n02 / 04"
+        "texto": "BLEND DA CASA · 160 G\nBRAVO\nBURGERS ARTESANAIS\nPão brioche na manteiga + blend bovino de 160 g, ao ponto. Valores em R$.\n01Bravo Clássico\nCheddar, picles, cebola roxa e maionese da casa.\n32,90\n02Bravo Salada\nQueijo prato, alface, tomate, cebola e maionese.\n34,90\n03Cheddar Bacon\nCheddar cremoso, bacon e cebola caramelizada.\n38,90\n04Catupiry Bravo\nCatupiry, bacon e alho frito.\n39,90\n05Costela BBQ\nCostela desfiada, prato, barbecue e onion.\n42,90\n06Picanha Burger\nPicanha 180 g, provolone, vinagrete e maionese verde.\n44,90\n07Duplo Brasa\n2 blends, cheddar em dobro, bacon e maionese.\n47,90\n08Chicken Crispy\nSobrecoxa empanada, mussarela e maionese de limão.\n33,90\n09Verde Bravo\nGrão-de-bico, queijo, folhas e maionese de ervas.\n34,90\nSmash no pão de batata 80 G CADA\nSmash Simples\n1 smash 80 g + cheddar\nR$ 22,90\nSmash Duplo\n2 smash + cheddar duplo + cebola\nR$ 28,90\nSmash Triplo\n3 smash + cheddar triplo + bacon\nR$ 35,90\nMarca fictícia criada para portfólio.\nValores e imagens ilustrativos."
       },
       {
         "imagem": "pagina-03.webp",
-        "texto": "BRAVO\n02 / PRA COMPLETAR\nBOA COMPANHIA.\nBATATA É PARCERIA.\nFRITAS DA CASA\nR$ 00,00\nPorção de batatas douradas com molho da casa.\nFRITAS BRAVAS\nR$ 00,00\nBatatas, cheddar cremoso e bacon crocante.\nREFRIGERANTE\nR$ 00,00\nLata de 350 ml. Consulte os sabores disponíveis.\nBRAVO / ACOMPANHAMENTOS\n03 / 04"
+        "texto": "BRAVO\nVira combo?\nCombo Bravo\nQualquer burger + fritas 150 g + refri lata\nR$ + 16,90\nCombo Casal\n2 Bravo Clássico + fritas inteira + 2 refris\nR$ 89,90\nCombo Kids\nSmash simples + fritas meia + suco\nR$ 29,90\nPorções\nMEIA\nINTEIRA\nFritas da casa\n16,90\n26,90\nFritas cheddar e bacon\n24,90\n36,90\nBatata rústica\n19,90\n29,90\nOnion rings\n18,90\n28,90\nNuggets (10 · 20 un)\n21,90\n36,90\nAdicionais\nBlend 160 g\nR$ 12,00\nBacon\nR$ 6,00\nCheddar ou Catupiry\nR$ 5,00\nOvo\nR$ 3,00\nCebola caramelizada\nR$ 4,00\nPicles\nR$ 3,00\nMolhos · potinho 30 ml\nDa casa\nR$ 3,50\nBarbecue\nR$ 3,50\nMaionese verde\nR$ 3,50\nCheddar\nR$ 3,50\nMostarda e mel\nR$ 3,50\nChipotle\nR$ 3,50\nMarca fictícia criada para portfólio.\nValores e imagens ilustrativos."
       },
       {
         "imagem": "pagina-04.webp",
-        "texto": "BRAVO\n03 / COMBOS\nJUNTO FICA\nMAIS BRAVO.\nCOMBO ORIGINAL\nR$ 00,00\nOriginal + fritas da casa + refrigerante.\nCOMBO DUPLO\nR$ 00,00\nDuplo Brasa + fritas da casa + refrigerante.\nBORA?\nCHAMA A GALERA.\nEscolha seu burger, complete com os\nacompanhamentos e prepare a mesa.\nBRAVO / FEITO NA BRASA\n04 / 04"
+        "texto": "BRAVO\nSemana brava\nTERTerça do Smash\nSmash duplo + fritas + refri\nR$ 29,90\nQUADobro de batata\nFritas inteira pelo preço da meia\nR$ 16,90\nQUIQuinta Duplo\nDuplo Brasa com 20% off\nR$ 38,30\nSEXShake em dobro\n2º milk-shake com 50% off\nSÁBSábado família\nCombo Casal + nuggets\nR$ 99,90\nDOMKids grátis\n1 combo kids a cada 2 combos\nBebidas\nRefri lataCoca, Zero, Guaraná, Fanta\nR$ 6,90\nRefri 600 ml\nR$ 9,00\nCoca-Cola 2 L\nR$ 15,00\nSuco natural 500 mllaranja, limão ou abacaxi c/ hortelã\nR$ 11,90\nÁguacom ou sem gás\nR$ 4,00\nLong neckHeineken ou Stella\nR$ 11,00\nShakes e doces\nMilk-shake Ovomaltine400 ml\nR$ 19,90\nMilk-shake Morango400 ml\nR$ 18,90\nMilk-shake Nutella400 ml\nR$ 22,90\nBrownie com sorvete\nR$ 19,90\nPetit gâteau\nR$ 22,90\nDELIVERY · WHATSAPP\n(16) 99999-0456\niFood · @bravoburger · Av. Nove de Julho, 1.020\nTer a dom, 18h às 23h · Retirada no balcão com 15% off\nPix, cartão e VR/VA · Pães com glúten, leite e ovos\nMarca fictícia criada para portfólio. Valores e imagens ilustrativos."
       }
     ]
   },
@@ -149,7 +149,7 @@ window.CATALOGOS = [
     "nicho": "Pet delivery",
     "grupo": "Serviços",
     "formato": "A4 · PDF",
-    "descricao": "Alimentação natural, cuidado e praticidade em uma apresentação acolhedora da marca.",
+    "descricao": "Refeições naturais para cães, porção por porte e planos de entrega.",
     "acao": "Ver apresentação",
     "cores": {
       "capa": "radial-gradient(ellipse at 50% 65%, #986132, #211c20)",
@@ -163,15 +163,15 @@ window.CATALOGOS = [
       },
       {
         "imagem": "pagina-02.webp",
-        "texto": "papô\n01 / NOSSO JEITO\nPequenos potes.\nMuito cuidado.\nA PAPÔ nasceu para aproximar a comida de verdade da rotina de quem cuida.\nRefeições para cães, porções práticas e uma experiência feita com afeto.\n01\nCOMIDA DE VERDADE\nIngredientes reconhecíveis e atenção ao preparo em cada etapa.\n02\nCADA PET É ÚNICO\nA escolha do plano considera a rotina e as necessidades do seu cão.\n03\nPRATICIDADE COM AFETO\nPorções organizadas para receber, conservar e servir no dia a dia.\nPAPÔ / NOSSO JEITO DE CUIDAR\n02 / 04"
+        "texto": "papô\nCARDÁPIO · 02\nComida de verdade\nno potinho.\nCozido sem sal e sem conservantes, congelado em potes de 250 g. Receitas feitas com médica-veterinária nutricionista.\nFrango\n250 G\nFrango com batata-doce\nFrango, batata-doce, cenoura e abobrinha.\nR$ 12,90\nCarne\n250 G\nCarne com abóbora\nPatinho, abóbora, vagem e arroz integral.\nR$ 14,90\nPeixe\n250 G\nPeixe com brócolis\nTilápia, arroz integral, brócolis e chuchu.\nR$ 15,90\nFígado\n250 G\nFrango e fígado\nFrango, fígado, mandioquinha e espinafre.\nR$ 13,90\nLight\n250 G\nLight\nPeito de frango, chuchu, abobrinha e quinoa.\nR$ 13,90\nFilhote\n250 G\nFilhote\nFrango, ovo, arroz e cenoura. Até 12 meses.\nR$ 13,90\nPetiscos naturais\nBifinho de fígado\ndesidratado · 100 g\nR$ 19,90\nPata de frango\ndesidratada · 6 un\nR$ 18,90\nBiscoito banana e aveia\n150 g\nR$ 16,90\nPicolé pet\nfruta e iogurte · 4 un\nR$ 19,90\nBolo de aniversário pet\nCarne com cobertura de batata-doce e o nome do seu cão. Encomenda com 3 dias.\nR$ 59,90\nMarca fictícia criada para portfólio. Valores e imagens ilustrativos."
       },
       {
         "imagem": "pagina-03.webp",
-        "texto": "papô\n02 / COMO FUNCIONA\nDo primeiro oi\nao próximo potinho.\n1\nConta pra gente\nConhecemos o perfil do seu cão e a rotina da família.\n2\nCombinamos o plano\nDefinimos as opções e a frequência de entrega com você.\n3\nChega na sua porta\nVocê recebe as porções e as orientações de conservação.\nAlimentação individualizada: as escolhas do plano devem respeitar a orientação do médico-veterinário que acompanha o\npet.\nPAPÔ / SIMPLES DE RECEBER\n03 / 04"
+        "texto": "papô\nPORÇÕES E PLANOS · 03\nQuanto meu cão\ncome por dia?\n150–250 g\npor dia\n250–400 g\npor dia\n400–650 g\npor dia\n650–900 g\npor dia\nconsulte\npor dia\nAté 5 kgPinscher, Yorkshire\n5 a 10 kgShih Tzu, Poodle\n10 a 20 kgBeagle, Border\n20 a 30 kgLabrador, Golden\n+30 kgPastor, Rottweiler\nValores aproximados para cães adultos. A porção muda com idade, atividade e saúde. Faça a transição em 7 dias, misturando com a ração, e siga o veterinário do seu pet.\nEscolha o plano\nSemanal\n14 potes · entrega toda semana\nR$ 169,90\n−5%\nQuinzenal\n28 potes · entrega a cada 15 dias\nR$ 319,90\n−10%\nMensal\n56 potes · uma entrega no mês\nR$ 599,90\nMarca fictícia criada para portfólio. Valores e imagens ilustrativos."
       },
       {
         "imagem": "pagina-04.webp",
-        "texto": "papô\n03 / VAMOS CONVERSAR?\nMais tempo\npro carinho.\nPra começar,\né só contar:\nO nome do seu pet\nA idade e o porte\nComo é a rotina\nOnde vamos entregar\nA próxima refeição\ncomeça com um oi.\nPAPÔ / PET DELIVERY\n04 / 04"
+        "texto": "papô\nCOMO FUNCIONA · 04\nDo primeiro oi\nao próximo potinho.\n1Conta pra gente\nnome, idade, peso e rotina do cão\n2Montamos o plano\nsabores e potes por semana\n3Chega congelado\nterças e sextas, em caixa térmica\n4Descongela e serve\nna geladeira, de um dia pro outro\nConservação\n−18 °C\nfreezer · até 60 dias\n4 °C\ngeladeira · até 3 dias\nAmbiente\nservir, nunca recongelar\n🐾 Frete grátis\nacima de R$ 150 em Ribeirão Preto\n🐾 Pedido mínimo de 7 potes\n🐾 Kit degustação: 4 sabores por R$ 49,90\n🐾 Atendimento com veterinária parceira\nPEDIDOS NO WHATSAPP\n(16) 99999-1234\n@papopet · Entregas terças e sextas\nRibeirão Preto e Bonfim Paulista\nSeg a sex, 9h às 18h · Pix ou cartão\nMarca fictícia criada para portfólio. Valores e imagens ilustrativos."
       }
     ]
   },
@@ -215,7 +215,7 @@ window.CATALOGOS = [
     "nicho": "Padaria artesanal",
     "grupo": "Gastronomia",
     "formato": "A4 · PDF",
-    "descricao": "Pães, folhados e encomendas em um catálogo que valoriza o tempo e o fazer artesanal.",
+    "descricao": "Vitrine com etiquetas, café da manhã no balcão e ficha de encomenda para festas.",
     "acao": "Explorar catálogo",
     "cores": {
       "capa": "radial-gradient(ellipse at 50% 65%, #7a5531, #211c20)",
@@ -229,15 +229,15 @@ window.CATALOGOS = [
       },
       {
         "imagem": "pagina-02.webp",
-        "texto": "miolo\n01 / NOSSA ESSÊNCIA\nFarinha, água\ne um pouco de calma.\nA gente acredita no pão que tem história antes de chegar à mesa. No cuidado com a\nmassa, no descanso e no aroma que anuncia uma nova fornada.\n01\nTempo\nRespeitar a massa.\n02\nMãos\nCuidar do preparo.\n03\nForno\nEncontrar o ponto.\nMIOLO / FEITO AQUI, COM TEMPO\n02 / 04"
+        "texto": "miolo\nNA VITRINE · 02\nSaiu do forno, tá na vitrine.\n6h30\n1ª fornada de pão francês\n11h00\n2ª fornada\n16h30\nfornada da tarde\n8h00\nfermentação natural\nPão francês\no quilo\nR$ 19,90/kg\nPão de queijo\no quilo\nR$ 64,90/kg\nPão de leite\npacote 10 un\nR$ 12,90\nPão de forma caseiro\n500 g\nR$ 14,90\nPão italiano\n500 g\nR$ 16,90\nFermentação natural\n800 g\nR$ 28,00\nNatural integral\n800 g\nR$ 30,00\nBaguete\nunidade\nR$ 9,90\nCoxinha\nfrango\nR$ 8,50\nEsfiha\ncarne\nR$ 7,50\nCroissant\nmanteiga\nR$ 9,90\nCroissant\npresunto e queijo\nR$ 14,90\nFolhado\nfrango\nR$ 9,90\nEnroladinho\nsalsicha\nR$ 7,00\nPão de batata\nc/ Catupiry\nR$ 8,50\nQuiche\nfatia do dia\nR$ 14,90\nMarca fictícia criada para portfólio. Valores e imagens ilustrativos."
       },
       {
         "imagem": "pagina-03.webp",
-        "texto": "miolo\n02 / NOSSA FORNADA\nEscolha seu\npróximo favorito.\nPães de fermentação natural\nCasca dourada, miolo leve e sabores que combinam com o seu dia.\nBoule da casa / integral / sementes\nFolhados & viennoiserie\nCamadas delicadas e o cuidado de uma produção artesanal.\nCroissant / pain au chocolat / folhado do dia\nBolos de casa\nReceitas acolhedoras para servir em fatias ou compartilhar.\nLaranja / chocolate / banana com canela\nMIOLO / A SELEÇÃO MUDA COM A FORNADA\n03 / 04"
+        "texto": "miolo\nCAFÉ NO BALCÃO · 03\nCafé da manhã no balcão.\nSenta no balcão, pede o pingado e o pão na chapa. Das 6h às 11h, tem café completo no prato.\nCAFÉ COMPLETO\nR$ 24,90\ncafé c/ leite · pão na\nchapa · fruta · bolo\nPADARIA MIOLO LTDA\nCUPOM DE BALCÃO · NÃO É DOCUMENTO FISCAL\nRUA DUQUE DE CAXIAS, 880\nNA CHAPA\nPAO NA CHAPA\n6,50\nPAO COM OVO\n9,90\nMISTO QUENTE\n12,90\nBAURU\n15,90\nQUEIJO QUENTE\n10,90\nOMELETE C/ PAO\n18,90\nPRA BEBER\nCAFE COADO\n5,00\nPINGADO\n6,00\nMEDIA C/ LEITE\n6,50\nCAPPUCCINO\n9,00\nCHOCOLATE QUENTE\n9,50\nSUCO LARANJA 300ML\n9,00\nVITAMINA\n12,00\nDOCES\nBOLO CASEIRO FATIA\n8,90\nBOLO INTEIRO\n39,90\nSONHO\n7,50\nCAROLINA\n4,50\nPUDIM FATIA\n9,90\nTORTA DOCE FATIA\n14,90\nCOMBO PAO DE QUEIJO\n14,90\n4 PAES DE QUEIJO + CAFE COADO\n* OBRIGADO, VOLTE SEMPRE *\nMarca fictícia criada para portfólio. Valores e imagens ilustrativos."
       },
       {
         "imagem": "pagina-04.webp",
-        "texto": "miolo\n03 / ENCOMENDAS\nTem lugar\npra mais um.\nPara levar, servir ou presentear.\nCAFÉ EM EQUIPE\nPães e folhados para reunir a turma.\nMESA DE CASA\nUma seleção para o encontro do fim de semana.\nPRESENTE COM AFETO\nCestas montadas a partir da nossa fornada.\nConte a ocasião.\nInforme a data, a quantidade de pessoas e suas preferências. A gente prepara uma\nproposta com os produtos disponíveis para a sua encomenda.\nMIOLO / GOSTO DE FEITO EM CASA\n04 / 04"
+        "texto": "miolo\nENCOMENDAS · 04\nFicha de encomenda.\nSalgados para festa · o cento\nSALGADO\nFRITO\nCONGELADO\nQTD\nCoxinha\nR$ 95\nR$ 79\nRisoles\nR$ 95\nR$ 79\nBolinha de queijo\nR$ 95\nR$ 79\nKibe\nR$ 95\nR$ 79\nEsfiha aberta\nR$ 110\nR$ 89\nMini pão de queijo\nR$ 59\nR$ 45\nBolo de festa · R$ 89,90/kg\nBrigadeiro\nNinho com morango\nPrestígio\nDoce de leite com nozes\nAbacaxi com coco\nFloresta negra\nPeso:  kg\nEscrita no bolo:\nTambém fazemos\nTorta salgada (kg)\nR$ 69,90\nMini sanduíche (cento)\nR$ 160,00\nCesta de café da manhã\na partir de R$ 149,90\nBolo caseiro inteiro\nR$ 39,90\nNome:\nTelefone:\nRetirada:\nENCOMENDAS COM\n48 h\nsinal de 50% no Pix\nbolos +3 kg: 72 h\n(16) 99999-1012\n@miolopadaria · Rua Duque de Caxias, 880\nSeg a sáb 6h às 20h · Dom 6h às 13h · Pix, cartão e VR/VA\nMarca fictícia criada para portfólio. Valores e imagens ilustrativos."
       }
     ]
   },
@@ -248,7 +248,7 @@ window.CATALOGOS = [
     "nicho": "Cafeteria",
     "grupo": "Gastronomia",
     "formato": "A4 · PDF",
-    "descricao": "Cafés, acompanhamentos e boas conversas em um menu que convida a desacelerar.",
+    "descricao": "Bebidas em diagramas, salgados e doces do dia e grãos para levar.",
     "acao": "Explorar cardápio",
     "cores": {
       "capa": "radial-gradient(ellipse at 50% 65%, #64353c, #211c20)",
@@ -262,15 +262,15 @@ window.CATALOGOS = [
       },
       {
         "imagem": "pagina-02.webp",
-        "texto": "varanda\n01 / NA XÍCARA\nSeu café.\nSeu momento.\nEspresso\nR$ 00,00\nCurto, intenso e extraído na hora.\nCappuccino\nR$ 00,00\nEspresso, leite cremoso e uma pausa bem-vinda.\nCoado da casa\nR$ 00,00\nUma xícara para descobrir os grãos da vez.\nCafé gelado\nR$ 00,00\nLeve, refrescante e pronto para desacelerar.\nValores demonstrativos deste projeto de portfólio.\nVARANDA / QUENTE OU GELADO, SEM PRESSA\n02 / 04"
+        "texto": "varanda\nCARDÁPIO\nQUENTES & GELADOS\n02\nO que tem na xícara.\nespresso\nleite\nespuma\nchocolate\n· leite vegetal ou sem lactose + R$ 2\nEspresso\ncurto ou longo\nP · G  R$ 7 · 10\nCoado\nV60, grão do dia\nP · G  R$ 8 · 11\nPingado\ncafé com um pingo de leite\nP · G  R$ 7 · 9\nCafé com leite\nmeio a meio\nP · G  R$ 8 · 10\nCappuccino\nespresso, leite e espuma\nP · G  R$ 12 · 15\nLatte\nmais leite, pouca espuma\nP · G  R$ 13 · 16\nMocha\ncafé, chocolate e leite\nP · G  R$ 15 · 18\nChocolate quente\ncremoso\nP · G  R$ 14 · 17\nCappuccino Nutella\ncom creme de avelã\nP · G  R$ 16 · 19\nChá\ncamomila, hortelã ou frutas\nP · G  R$ 8 · 10\nGELADOS\nCafé gelado\nR$ 14\nIced latte\nR$ 15\nFrappé\ncafé, caramelo ou Ovomaltine\nR$ 18\nAffogato\nespresso + sorvete\nR$ 16\nSuco natural\nlaranja, limonada, abacaxi\nR$ 12\nMarca fictícia criada para portfólio. Valores e imagens ilustrativos."
       },
       {
         "imagem": "pagina-03.webp",
-        "texto": "varanda\n02 / PRA ACOMPANHAR\nUma boa companhia.\nCroissant da casa\nR$ 00,00\nFolhado amanteigado, servido quentinho.\nPão de queijo\nR$ 00,00\nPorção para beliscar entre uma conversa e outra.\nBolo do dia\nR$ 00,00\nUma fatia de receita caseira. Consulte o sabor.\nVARANDA / CAFÉ COM ALGO A MAIS\n03 / 04"
+        "texto": "varanda\nCARDÁPIO\nPRA ACOMPANHAR\n03\nUma boa companhia.\nTudo que sai da nossa cozinha é feito no dia: o pão de queijo vai ao forno a cada hora, o bolo muda conforme a semana e a quiche é montada de manhã. Pergunte no balcão o que acabou de sair.\n“Café coado e pão de queijo: a dupla que mais sai por aqui.”\nSALGADOS\nPão de queijo\nporção com 3\n9\nPão na chapa\n8\nMisto quente\nno pão de forma caseiro\n16\nCroissant presunto e queijo\n18\nTapioca\ncoalho, frango ou presunto e queijo\n18\nTorrada com ovos mexidos\n22\nQuiche do dia\ncom salada\n24\nCoxinha de frango\n9\nDOCES\nBolo do dia\nfatia\n12\nBrownie\n13\nCookie\n9\nPão de mel\n8\nCheesecake\nfrutas vermelhas\n18\nCroissant de chocolate\n14\nValores em R$. Marca fictícia criada para portfólio. Valores e imagens ilustrativos."
       },
       {
         "imagem": "pagina-04.webp",
-        "texto": "varanda\n03 / FIQUE À VONTADE\nPuxa uma cadeira.\nA conversa rende.\nTem café. Tem afeto.\nPara começar o dia, encontrar alguém ou simplesmente estar. A VARANDA é um\nconvite para aproveitar o que acontece entre um gole e outro.\nVARANDA / O BOM DO DIA MORA AQUI\n04 / 04"
+        "texto": "varanda\nCARDÁPIO\nCOMBOS · GRÃOS · VISITE\n04\nPuxa uma cadeira.\nCafé da manhã\ncafé com leite G, pão na chapa e suco de laranja\nR$ 26\nCafé da tarde\ncappuccino P e fatia de bolo\nR$ 22\nPão de queijo duplo\ncoado P e 6 pães de queijo\nR$ 19\nGRÃOS PARA LEVAR · MOAGEM NA HORA GRÁTIS\nVARANDA · 250 G\nMogiana\nchocolate · caramelo\nintensidade\nR$ 49\nVARANDA · 250 G\nCerrado Mineiro\nfrutado · acidez média\nintensidade\nR$ 52\nVARANDA · 250 G\nSul de Minas\ndoce · encorpado\nintensidade\nR$ 49\nVISITE\nRua Florêncio de Abreu, 315\nSeg a sex, 7h às 19h\nSáb e dom, 8h às 18h\nFALE COM A GENTE\n(16) 99999-1123 · @varandacafe\nPix, cartão e VR\nWi-Fi grátis, tomadas nas mesas e varanda pet friendly.\nMarca fictícia criada para portfólio. Valores e imagens ilustrativos."
       }
     ]
   },
@@ -281,7 +281,7 @@ window.CATALOGOS = [
     "nicho": "Pizzaria",
     "grupo": "Gastronomia",
     "formato": "A4 · PDF",
-    "descricao": "Pizzas clássicas, sabores especiais e sobremesas em um cardápio vibrante e descontraído.",
+    "descricao": "Régua de tamanhos, sabores numerados, bordas recheadas e combos de pizzaria.",
     "acao": "Explorar cardápio",
     "cores": {
       "capa": "radial-gradient(ellipse at 50% 65%, #8a3829, #211c20)",
@@ -295,15 +295,15 @@ window.CATALOGOS = [
       },
       {
         "imagem": "pagina-02.webp",
-        "texto": "TOMA PIZZA\n01 / AS FAVORITAS\nQUAL VAI SER\nA DE HOJE?\nPIZZA GRANDE / 8 FATIAS\nCALABRESA\nR$ 00,00\nMolho de tomate, muçarela, calabresa, cebola e orégano.\nMARGUERITA\nR$ 00,00\nMolho de tomate, muçarela, tomate e manjericão fresco.\nPORTUGUESA\nR$ 00,00\nMuçarela, presunto, ovos, cebola, ervilhas e azeitonas.\nQUATRO QUEIJOS\nR$ 00,00\nMuçarela, provolone, parmesão e requeijão cremoso.\nValores demonstrativos. Imagens ilustrativas.\nTOMA / SABOR PRA TODO MUNDO\n02 / 04"
+        "texto": "TOMA PIZZA\nCARDÁPIO · 02\nEscolha o tamanho\nBroto\n4 fatias · 1 sabor\nMédia\n6 fatias · até 2 sabores\nGrande\n8 fatias · até 2 sabores\nFamília\n12 fatias · até 3 sabores\n25 cm\n30 cm\n35 cm\n40 cm\nTradicionais\nMédia\nGrande\nFamília\n01Mussarela\nMolho, mussarela, tomate e orégano.\n42,90\n52,90\n66,90\n02Calabresa\nCalabresa, cebola e azeitona.\n42,90\n52,90\n66,90\n03Marguerita\nMussarela, tomate e manjericão.\n45,90\n55,90\n69,90\n04Portuguesa\nPresunto, ovo, cebola, ervilha e azeitona.\n47,90\n57,90\n71,90\n05Frango c/ Catupiry\nFrango desfiado e Catupiry.\n47,90\n57,90\n71,90\n06Napolitana\nMussarela, tomate, parmesão e alho.\n45,90\n55,90\n69,90\n07Milho\nMussarela e milho verde.\n42,90\n52,90\n66,90\n08Atum\nAtum sólido, cebola e mussarela.\n48,90\n58,90\n72,90\n09Baiana\nCalabresa moída, pimenta, ovo e cebola.\n45,90\n55,90\n69,90\n10Alho e Óleo\nMussarela, alho dourado e parmesão.\n42,90\n52,90\n66,90\n11Bauru\nPresunto, mussarela e tomate.\n44,90\n54,90\n68,90\n12Quatro Queijos\nMussarela, provolone, parmesão e Catupiry.\n49,90\n59,90\n73,90\n2 sabores?\nCobramos pelo sabor de maior valor. Broto: 1 sabor, a partir de R$ 29,90.\nValores em R$. Marca fictícia criada para portfólio. Valores e imagens ilustrativos."
       },
       {
         "imagem": "pagina-03.webp",
-        "texto": "TOMA PIZZA\n02 / AS ESPECIAIS\nCAPRICHO\nEM CADA FATIA.\nGRANDE / 8 FATIAS\nPEPPERONI\nR$ 00,00\nMuçarela, pepperoni e um toque de manjericão.\nFRANGO CREMOSO\nR$ 00,00\nFrango desfiado, muçarela e requeijão cremoso.\nTOMA / CHEGOU A HORA DA PIZZA\n03 / 04"
+        "texto": "TOMA PIZZA\nESPECIAIS · 03\nAs especiais\nda casa\n13 Pepperoni\nMussarela e pepperoni fatiado.\nM 52,90 · G 62,90 · F 80,90\n14 Frango, Cheddar e Bacon\nM 52,90 · G 62,90 · F 80,90\n15 Carne Seca c/ Catupiry\nCarne seca desfiada e cebola.\nM 56,90 · G 66,90 · F 84,90\n16 Lombo Canadense\nLombo, Catupiry e cebola.\nM 52,90 · G 62,90 · F 80,90\n17 Strogonoff\nStrogonoff de frango e batata palha.\nM 52,90 · G 62,90 · F 80,90\n18 Brócolis c/ Bacon\nAlho e Catupiry.\nM 50,90 · G 60,90 · F 78,90\n19 Toma da Casa\nCalabresa, frango, Catupiry, milho e bacon.\nM 56,90 · G 66,90 · F 84,90\nDoces BROTO · GRANDE\nBrigadeiro\nchocolate e granulado\nBroto 34,90\nGrande 54,90\nPrestígio\nchocolate e coco\nBroto 34,90\nGrande 54,90\nRomeu e Julieta\nmussarela e goiabada\nBroto 34,90\nGrande 54,90\nBanana Nevada\nbanana, canela e chocolate branco\nBroto 34,90\nGrande 54,90\nChoco Morango\nchocolate e morangos\nBroto 34,90\nGrande 54,90\nMarca fictícia criada para portfólio. Valores e imagens ilustrativos."
       },
       {
         "imagem": "pagina-04.webp",
-        "texto": "TOMA PIZZA\n03 / PRA FECHAR\nFINAL FELIZ\nTEM SOBREMESA.\nCHOCOLATE\nR$ 00,00\nPizza doce com chocolate e morangos. Grande, 8 fatias.\nBANANA & CANELA\nR$ 00,00\nBanana, açúcar e canela. Grande, 8 fatias.\nCHAMA TODO MUNDO.\nEscolha o sabor, combine a bebida e deixe a próxima rodada de conversa por\nnossa conta.\nREFRIGERANTE 2 L\nR$ 00,00\nTOMA / PIZZA BOA JUNTA GENTE\n04 / 04"
+        "texto": "TOMA PIZZA\nBORDAS E COMBOS · 04\nRecheia a borda\nCatupiry\nM R$ 9 · G R$ 11 · F R$ 14\nCheddar\nM R$ 9 · G R$ 11 · F R$ 14\nCream cheese\nM R$ 9 · G R$ 11 · F R$ 14\nChocolate\nM R$ 9 · G R$ 11 · F R$ 14\nCombos na caixa\nCombo Casal\nMédia tradicional + guaraná 1 L\nR$ 52,90\nCombo Família\nGrande tradicional + borda + refri 2 L\nR$ 74,90\nCombo Galera\n2 grandes tradicionais + refri 2 L\nR$ 119,90\nCombo Kids\nBroto doce + suco 1 L\nR$ 39,90\nBebidas\nCoca-Cola 2 L\nR$ 15,00\nGuaraná 2 L\nR$ 12,00\nRefri lata\nR$ 6,50\nSuco 1 L\nR$ 11,00\nÁgua\nR$ 3,50\nLong neck\nR$ 10,00\nQuarta da pizza\nA 2ª grande tradicional sai com 30% off. Delivery e retirada.\nPEDIDOS · DELIVERY E RETIRADA\n(16) 99999-0345\nTambém no iFood · @tomapizza\nRua Visconde de Inhaúma, 540 · Centro\nTER A DOM ...... 18h às 23h30\nENTREGA ........ grátis até 3 km\nPAGAMENTO ...... Pix, cartão, dinheiro\nTEMPO MÉDIO .... 40 a 50 min\nMarca fictícia criada para portfólio. Valores e imagens ilustrativos."
       }
     ]
   },
@@ -314,7 +314,7 @@ window.CATALOGOS = [
     "nicho": "Barbearia",
     "grupo": "Serviços",
     "formato": "A4 · PDF",
-    "descricao": "Estilos de cortes, barbas e combos em um catálogo que valoriza cada detalhe do cuidado.",
+    "descricao": "Tabela de cortes, barba e química, combos e o clube de assinatura mensal.",
     "acao": "Explorar catálogo",
     "cores": {
       "capa": "radial-gradient(ellipse at 50% 65%, #65704e, #1b2119)",
@@ -328,15 +328,15 @@ window.CATALOGOS = [
       },
       {
         "imagem": "pagina-02.webp",
-        "texto": "BRAVIO 01 / CORTES\nA forma muda.\nA atitude fica.\n01\nCrop + Low Fade\nTopo texturizado, franja curta e degradê baixo. Um acabamento\nlimpo com personalidade.\nR$ 00,00\n02\nCachos + Taper\nVolume natural no topo e transição suave nas laterais. Textura em\nprimeiro plano.\nR$ 00,00\n03\nClássico Lateral\nRisca lateral, volume alinhado e acabamento na tesoura. Um estilo\nque atravessa o tempo.\nR$ 00,00\nCortes com finalização. Referências adaptadas ao seu tipo de cabelo.\nBRAVIO / BARBEARIA 02 / 04"
+        "texto": "BRAVIO\nTABELA DE SERVIÇOS · 02\nvalores em reais\nCabelo\nCorte social\nmáquina e tesoura\n40\nDegradê / fade\nlow, mid ou high\n45\nCorte na tesoura\nmédios e longos\n50\nCorte infantil\naté 10 anos\n35\nMáquina\num pente\n30\nPezinho\ncontorno e nuca\n15\ndegradê\ntaper c/ cachos\nbarba cheia\nsocial lateral\nBarba & Rosto\nBarba\ntoalha quente e navalha\n35\nBarba desenhada\n40\nBarboterapia\nvapor e hidratação\n55\nSobrancelha\nna navalha\n15\nPigmentação barba\n25\nPigmentação cabelo\n25\nMarca fictícia criada para portfólio. Valores e imagens ilustrativos."
       },
       {
         "imagem": "pagina-03.webp",
-        "texto": "BRAVIO 02 / BARBAS\nPresença em\ncada contorno.\n01\nBarba Curta\nComprimento baixo, linhas definidas e desenho que acompanha o\nmaxilar.\nR$ 00,00\n02\nBarba Cheia\nVolume preservado, alinhamento dos fios e contorno bem marcado.\nR$ 00,00\n03\nCavanhaque\nBigode e queixo em destaque, com bochechas limpas e desenho\npreciso.\nR$ 00,00\nAcabamento e finalização incluídos em todos os estilos de barba.\nBRAVIO / BARBEARIA 03 / 04"
+        "texto": "BRAVIO\nQUÍMICA E COMBOS · 03\na partir de\nQuímica\nPlatinado / nevou\n≈ 2 h\n150\nLuzes\ntouca ou papel\n100\nProgressiva\ncabelo curto\n90\nRelaxamento\n60\nSelagem\n80\nHidratação capilar\n35\nLimpeza de pele\n50\nDepilação nariz e orelha\ncera\n20\nCombos\nCorte + barba\no mais pedido\n70\nCorte + barba + sobrancelha\n80\nPai e filho\n2 cortes\n70\nDia do Noivo\ncorte, barba, pele e sobrancelha\n160\nMarca fictícia criada para portfólio. Valores e imagens ilustrativos."
       },
       {
         "imagem": "pagina-04.webp",
-        "texto": "BRAVIO 03 / SERVIÇOS & COMBOS\nO cuidado\npor completo.\nPARA FINALIZAR\nPezinho R$ 00,00\nManutenção dos contornos e da nuca.\nSobrancelha R$ 00,00\nAlinhamento dos fios e acabamento natural.\nHidratação Capilar R$ 00,00\nCuidado com os fios e finalização.\nCOMBOS BRAVIO\nCorte + Barba R$ 00,00\nSeu corte e sua barba, em uma só sessão.\nRitual Completo R$ 00,00\nCorte, barba e sobrancelha com finalização.\nSente. Relaxe. Renove.\nEscolha seu estilo e agende seu próximo cuidado.\nMarca fictícia de portfólio. Imagens ilustrativas e valores demonstrativos.\nBRAVIO / BARBEARIA 04 / 04"
+        "texto": "BRAVIO\nCLUBE BRAVIO · 04\nassinatura mensal no cartão · sem fidelidade\nClube Bravio\nCLUBE BRAVIO · PLANO CORTE\nCortes ilimitados\nseg a qui\nR$ 99,90 /mês\nCLUBE BRAVIO · PLANO BARBA\nBarbas ilimitadas\nseg a qui\nR$ 89,90 /mês\nCLUBE BRAVIO · PLANO COMPLETO\nCorte + barba ilimitados\ntodos os dias\nR$ 159,90 /mês\nProdutos\nPomada modeladora\nseca ou brilho\n45\nÓleo para barba\n30 ml\n39,90\nBalm para barba\n42\nShampoo de barba\n35\nNo balcão\nCerveja long neck\n10\nRefrigerante lata\n6\nCafé expresso\ncortesia\nÁgua\n4\nsinuca e videogame liberados!\nAGENDE SEU HORÁRIO\n(16) 99999-0901\nApp Booksy · @braviobarbearia\nTer a sex\n· 9h às 20h\nSábado\n· 8h às 18h\nEndereço\n· Rua Lafaiete, 640\nPagamento\n· Pix, cartão e dinheiro\nMarca fictícia criada para portfólio. Valores e imagens ilustrativos."
       }
     ]
   },
@@ -376,7 +376,7 @@ window.CATALOGOS = [
     "nicho": "Açaí",
     "grupo": "Gastronomia",
     "formato": "A4 · PDF",
-    "descricao": "Copos, tigelas e acompanhamentos em um cardápio brasileiro cheio de cor e combinações.",
+    "descricao": "Monte seu açaí: tamanhos, bases, complementos por categoria e copos da casa.",
     "acao": "Explorar catálogo",
     "cores": {
       "capa": "radial-gradient(ellipse at 50% 65%, #873f91, #30133e)",
@@ -390,15 +390,15 @@ window.CATALOGOS = [
       },
       {
         "imagem": "pagina-02.webp",
-        "texto": "dengo 01 / MONTE O SEU\nQual é o tamanho\nda sua vontade?\nAçaí com guaraná, bem cremoso. Escolha seu tamanho e complete com os acompanhamentos.\n300 mlPra uma pausa\nR$ 00,00\n400 mlNa medida certa\nR$ 00,00\n500 mlVontade caprichada\nR$ 00,00\n700 mlFome de açaí\nR$ 00,00\n3 acompanhamentos incluídos\nEscolha entre banana, morango, granola, leite em pó, paçoca ou leite condensado.\nQuer mais? Os adicionais estão na última página.\nMarca fictícia. Imagens ilustrativas e valores demonstrativos.\nDENGO / MONTE DO SEU JEITO 02 / 04"
+        "texto": "dengo\nMONTE O SEU · 02\nMonte do\nseu jeito.\n1Escolha o tamanho · o selo mostra quantos complementos vêm grátis\n3GRÁTIS\n300 ml\ncopo\nR$ 14,90\n3GRÁTIS\n400 ml\ncopo\nR$ 17,90\n4GRÁTIS\n500 ml\ncopo\nR$ 21,90\n5GRÁTIS\n700 ml\ncopo\nR$ 27,90\n6GRÁTIS\n1 litro\nmarmita\nR$ 39,90\n8GRÁTIS\nBarca\nserve 2\nR$ 54,90\n2Escolha a base\nAçaí\ntradicional\nCom banana\nmais docinho\nCupuaçu\nbatido na hora\nCasadinho\naçaí + cupuaçu\nZero açúcar\n+ R$ 2,00\n3Complementos: vire a página\nNo copo, em camadas!\nNa marmita e na barca,\nvai tudo por cima.\nDENGO AÇAÍ · Marca fictícia criada para portfólio. Valores e imagens ilustrativos."
       },
       {
         "imagem": "pagina-03.webp",
-        "texto": "dengo 02 / COMBINAÇÕES\nJá vem com\ncara de favorito.\nTIGELAS DE 500 ML / COMPOSIÇÕES FIXAS\nBrasileirinho R$ 00,00\nAçaí, banana, granola e leite condensado.\nMorango & Leite R$ 00,00\nAçaí, morangos frescos, leite em pó e leite condensado.\nPaçoca Cremosa R$ 00,00\nAçaí, banana, paçoca e creme de amendoim.\nChoco Dengo R$ 00,00\nAçaí, morango, creme de avelã e gotas de chocolate.\nÉ só escolher sua combinação e aproveitar.\nDENGO / COMBINAÇÕES DA CASA 03 / 04"
+        "texto": "dengo\nCOMPLEMENTOS · 03\nCapricha nos\ncomplementos.\nEscolha os grátis do seu tamanho entre tudo isso aqui. Caldas e coberturas vão sempre por cima.\nFrutas\nBanana\nMorango\nKiwi\nManga\nUva verde\nAbacaxi\nCrocantes\nGranola\nSucrilhos\nPaçoca\nAmendoim\nFlocos de arroz\nConfete\nGotas de chocolate\nChocoball\nPós\nLeite em pó\nFarinha láctea\nOvomaltine\nAveia\nCoberturas\nLeite condensado\nMel\nChocolate\nMorango\nCaramelo\nMenta\nCopo da\nFelicidade\nR$ 32,90\n500 ml\nAdicionais\nCobrados à parte, em qualquer tamanho. O Copo da Felicidade leva açaí, creme de Ninho, morango, brigadeiro, Nutella e Kit Kat.\nCreme de Ninho\nR$ 4,00\nCreme de Ovomaltine\nR$ 4,00\nCreme de paçoca\nR$ 4,00\nCreme de cupuaçu\nR$ 4,00\nNutella 30 g\nR$ 6,50\nBrigadeiro de colher\nR$ 4,50\nKit Kat\nR$ 4,50\nBis picado\nR$ 3,50\nOuro Branco\nR$ 3,50\nMorango extra\nR$ 3,50\nLeite em pó extra\nR$ 2,50\n+1 complemento\nR$ 2,00\nNão enviamos complementos separados do copo.\nDENGO AÇAÍ · Marca fictícia criada para portfólio. Valores e imagens ilustrativos."
       },
       {
         "imagem": "pagina-04.webp",
-        "texto": "dengo 03 / UM DENGO A MAIS\nCapricha no extra.\nADICIONAIS / VALOR POR PORÇÃO\nBanana R$ 00,00\nMorango R$ 00,00\nLeite em pó R$ 00,00\nPaçoca R$ 00,00\nCreme de avelã R$ 00,00\nCreme de amendoim R$ 00,00\nDengo em Dobro R$ 00,00\n2 copos de 300 ml. Cada copo com até 3 acompanhamentos da lista incluída.\nPRA REFRESCAR\nÁgua mineral / 500 ml R$ 00,00\nRefrigerante / lata 350 ml R$ 00,00\nMarca fictícia. Imagens ilustrativas e valores demonstrativos.\nDENGO / AÇAÍ DO SEU JEITO 04 / 04"
+        "texto": "dengo\nCOPOS DA CASA · 04\nJá vem\nmontadinho.\nCopos de 500 ml · receitas da casa\nTropical\nAçaí, banana, manga, kiwi, granola e mel.\nR$ 25,90\nNinho com Morango\nAçaí, creme de Ninho, morango e leite condensado.\nR$ 27,90\nPaçoquinha\nAçaí, creme de paçoca, banana e amendoim.\nR$ 26,90\nOvomaltine\nAçaí, creme e flocos de Ovomaltine, leite em pó.\nR$ 27,90\nFit\nAçaí zero, banana, morango, aveia e mel.\nR$ 24,90\nCasadinho Especial\nAçaí, cupuaçu, banana e leite condensado.\nR$ 26,90\nPra refrescar\nÁgua mineral 500 ml\nR$ 3,50\nÁgua com gás 500 ml\nR$ 4,00\nRefrigerante lata\nR$ 6,50\nSuco natural 400 ml\nR$ 9,90\nToda terça\n2 por\nR$ 39,90\ncopos de 500 ml\nPEÇA PELO WHATSAPP\n(16) 99999-0123\nTambém no iFood · @dengoacai\nRua Amador Bueno, 210 · Centro\nTodos os dias\n· 13h às 23h\nEntrega\n· a partir de R$ 4,00\nPagamento\n· Pix, cartão e dinheiro\nDENGO AÇAÍ · Marca fictícia criada para portfólio. Valores e imagens ilustrativos."
       }
     ]
   },
@@ -409,7 +409,7 @@ window.CATALOGOS = [
     "nicho": "Pastelaria",
     "grupo": "Gastronomia",
     "formato": "A4 · PDF",
-    "descricao": "Pastéis salgados, doces e caldo de cana em um cardápio com sabor de feira.",
+    "descricao": "Pastéis de feira, especiais de 30 cm, doces e caldo de cana em três tamanhos.",
     "acao": "Explorar catálogo",
     "cores": {
       "capa": "radial-gradient(ellipse at 50% 65%, #b96237, #4c1d1c)",
@@ -423,15 +423,15 @@ window.CATALOGOS = [
       },
       {
         "imagem": "pagina-02.webp",
-        "texto": "ESTALO 01 / OS CLÁSSICOS\nTEM GOSTO DE FEIRA.PASTÉIS GRANDES / APROX. 20 CM / VALOR POR UNIDADE\nCarne R$ 00,00\nCarne moída temperada, cebola e azeitona.\nQueijo R$ 00,00\nMuçarela derretida, do jeitinho que a gente gosta.\nPizza R$ 00,00\nMuçarela, presunto, tomate e orégano.\nFrango com Requeijão R$ 00,00\nFrango desfiado bem temperado e requeijão cremoso.\nCalabresa com Queijo R$ 00,00\nCalabresa, muçarela e cebola.\nPalmito R$ 00,00\nPalmito refogado com tomate, cebola e cheiro-verde.\nMarca fictícia. Imagens ilustrativas e valores demonstrativos.\nESTALO / CLÁSSICOS DE BALCÃO 02 / 04"
+        "texto": "ESTALO\nPastel de feira,\ntamanho de feira.\nTradicional: 20 cm.\nMassa fininha, fritura na hora e recheio até a ponta. Adicional de Catupiry, cheddar, bacon ou ovo: R$ 3.\nCarne\nmoída, cebola e azeitona\nR$ 13\nQueijo\nmussarela\nR$ 13\nPizza\nqueijo, presunto, tomate\nR$ 14\nFrango\ndesfiado temperado\nR$ 13\nFrango c/ Catupiry\nR$ 15\nCarne c/ Queijo\nR$ 15\nCalabresa c/ Queijo\ncom cebola\nR$ 15\nPalmito\nrefogado com tomate\nR$ 15\nBauru\npresunto, queijo, tomate\nR$ 14\nMilho c/ Queijo\nR$ 14\nEscarola c/ Queijo\nR$ 14\nOvo c/ Queijo\nR$ 13\nBrócolis c/ Catupiry\nR$ 15\nBacalhau\ndesfiado, batata e azeitona\nR$ 22\nCamarão\ncom Catupiry\nR$ 24\nDe vento\nsó a massa\nR$ 7\nMarca fictícia criada para portfólio. Valores e imagens ilustrativos."
       },
       {
         "imagem": "pagina-03.webp",
-        "texto": "ESTALO 02 / OS CAPRICHADOS\nRECHEIO QUE\nFAZ BARULHO.PASTÉIS GRANDES / APROX. 20 CM / VALOR POR UNIDADE\nCarne com Queijo R$ 00,00\nCarne moída bem temperada e muçarela derretida.\nFrango com Bacon R$ 00,00\nFrango desfiado, bacon crocante e requeijão.\nCarne-seca R$ 00,00\nCarne-seca desfiada, cebola e requeijão cremoso.\nEspecial da Casa R$ 00,00\nCarne moída, muçarela, presunto, ovo e azeitona.\nMassa fininha. Borda crocante. Recheio de verdade.\nESTALO / ESPECIAIS DA CASA 03 / 04"
+        "texto": "ESTALO\nEspeciais · 30 cm\nO dobro de recheio, pra quem chega com fome. Valores em R$, por unidade.\nEspecial da Casa\nCarne, mussarela, presunto, ovo e azeitona.\n24\nCarne Seca\nCarne seca desfiada, cebola e Catupiry.\n27\nFrango Especial\nFrango, Catupiry, milho e bacon.\n24\nPizza Especial\nQueijo em dobro, presunto, calabresa e orégano.\n24\nCostela\nCostela desfiada, cebola caramelizada e queijo.\n28\nFeirante\nCarne, queijo, ovo, palmito e azeitona.\n26\nDoces · 20 cm\nBanana c/ Canela\n13\nChocolate\n14\nRomeu e Julieta\n14\nPrestígio\n15\nDoce de Leite\n14\nNutella c/ Morango\n19\nMINI PASTÉIS PARA FESTA\nCento sortido · carne, queijo, pizza e frango · encomenda com 48 h\nR$ 89/cento\nMarca fictícia criada para portfólio. Valores e imagens ilustrativos."
       },
       {
         "imagem": "pagina-04.webp",
-        "texto": "ESTALO 03 / DOCES & COMBOS\nFECHA COM UM DOCE.PASTÉIS DOCES / APROX. 15 CM / VALOR POR UNIDADE\nBanana com Canela R$ 00,00\nBanana, açúcar e canela.\nChocolate R$ 00,00\nChocolate ao leite cremoso.\nRomeu e Julieta R$ 00,00\nGoiabada e muçarela.\nCombo da Feira R$ 00,00\n1 pastel clássico + caldo de cana 300 ml.\nDupla de Respeito R$ 00,00\n2 pastéis clássicos + 2 caldos de cana 300 ml.\nCaldo de cana / 300 ml R$ 00,00\nRefrigerante / lata 350 ml R$ 00,00\nÁgua mineral / 500 ml R$ 00,00\nMarca fictícia. Imagens ilustrativas e valores demonstrativos.\nESTALO / PASTEL & CALDO DE CANA 04 / 04"
+        "texto": "ESTALO\nPastel pede caldo de cana\nMoído na hora, bem geladinho.\n300 ml\nR$ 7\nlimão ou abacaxi + R$ 1\n500 ml\nR$ 10\nlimão ou abacaxi + R$ 1,50\n1 litro\nR$ 18\ngarrafa para levar\nCOMBOS E BEBIDAS\nCombo Feira · 1 tradicional + caldo 300 ml\nR$ 18,90\nDupla · 2 tradicionais + caldo 500 ml\nR$ 34,90\nFamília · 5 tradicionais + caldo 1 litro\nR$ 74,90\nRefrigerante lata\nR$ 6\nRefrigerante 2 L\nR$ 13\nÁgua mineral · com ou sem gás\nR$ 3,50\nSuco natural 400 ml · laranja ou limão\nR$ 9\nPedidos\n(16) 99999-0567\nSeg a sáb\n10h às 20h\n@estalopastelaria\nDomingo na feira\nPraça da Matriz · 7h às 13h\nRua São Sebastião, 410 · Centro · iFood · Pix, cartão e dinheiro\nMarca fictícia criada para portfólio. Valores e imagens ilustrativos."
       }
     ]
   }
