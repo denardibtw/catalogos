@@ -434,5 +434,38 @@ window.CATALOGOS = [
         "texto": "ESTALO\nPastel pede caldo de cana\nMoído na hora, bem geladinho.\n300 ml\nR$ 7\nlimão ou abacaxi + R$ 1\n500 ml\nR$ 10\nlimão ou abacaxi + R$ 1,50\n1 litro\nR$ 18\ngarrafa para levar\nCOMBOS E BEBIDAS\nCombo Feira · 1 tradicional + caldo 300 ml\nR$ 18,90\nDupla · 2 tradicionais + caldo 500 ml\nR$ 34,90\nFamília · 5 tradicionais + caldo 1 litro\nR$ 74,90\nRefrigerante lata\nR$ 6\nRefrigerante 2 L\nR$ 13\nÁgua mineral · com ou sem gás\nR$ 3,50\nSuco natural 400 ml · laranja ou limão\nR$ 9\nPedidos\n(16) 99999-0567\nSeg a sáb\n10h às 20h\n@estalopastelaria\nDomingo na feira\nPraça da Matriz · 7h às 13h\nRua São Sebastião, 410 · Centro · iFood · Pix, cartão e dinheiro\nMarca fictícia criada para portfólio. Valores e imagens ilustrativos."
       }
     ]
+  },
+  {
+    "id": "th",
+    "nome": "TH Estofados",
+    "titulo": "TH Estofados | Higienização a domicílio",
+    "nicho": "Higienização de estofados",
+    "grupo": "Serviços",
+    "formato": "A4 · PDF",
+    "descricao": "Preço por estofado, processo de extração explicado, secagem e plano de manutenção.",
+    "acao": "Explorar catálogo",
+    "cores": {
+      "capa": "radial-gradient(ellipse at 50% 65%, #1f6f6a, #0c2f3a 60%, #08222a)",
+      "destaque": "#1fb5a5"
+    },
+    "pdf": "TH_Estofados_Catalogo_A4.pdf",
+    "paginas": [
+      {
+        "imagem": "pagina-01.webp",
+        "texto": "TH\nTH EstofadosHIGIENIZAÇÃO A DOMICÍLIO\nCATÁLOGO 2026\nSeu sofá limpo\nde novo.\nHigienização de sofás, colchões, cadeiras e bancos de carro na sua casa. Tiramos sujeira, ácaros e odores com extratora profissional.\nANTES\nDEPOIS\nA domicílio\nvamos até você com todo o equipamento\n4 a 6 h\nde secagem na maioria dos tecidos\nPet friendly\nprodutos biodegradáveis e sem cheiro forte\nOrçamento\npor foto no WhatsApp, na hora\nMarca fictícia criada para portfólio. Valores e imagens ilustrativos."
+      },
+      {
+        "imagem": "pagina-02.webp",
+        "texto": "TH\nTH EstofadosHIGIENIZAÇÃO A DOMICÍLIO\nQUANTO CUSTA · 02\nAche o seu estofado.\nValor por peça, já com aspiração, pré-tratamento, extração e neutralizador de odor. Peças muito encardidas, com xixi de pet ou mofo podem ter acréscimo, sempre combinado antes.\nSofás e cadeiras\nSofá 2 lugares\nfixo\na partir deR$ 160\nSofá 3 lugares\nfixo\na partir deR$ 190\nRetrátil / reclinável\n2 ou 3 lugares\na partir deR$ 240\nSofá de canto\nem L, até 5 lugares\na partir deR$ 320\nPoltrona\ncom ou sem braço\na partir deR$ 90\nCadeira estofada\nassento e encosto\na partir deR$ 35\nPuff\nredondo ou baú\na partir deR$ 40\nCabeceira\ncama casal ou queen\na partir deR$ 120\nColchões\nColchão solteiro\nfrente e verso\na partir deR$ 150\nColchão casal\nfrente e verso\na partir deR$ 220\nColchão queen\nfrente e verso\na partir deR$ 250\nColchão king\nfrente e verso\na partir deR$ 290\nCarro e outros\nBancos de carro\n5 lugares, tecido ou couro\na partir deR$ 280\nCarpete do carro\nassoalho e porta-malas\na partir deR$ 120\nTapete\npor m², no local\no m²R$ 28\nCadeira de escritório\ngamer ou presidente\na partir deR$ 60\nImpermeabilização\nAplicada depois da higienização. Cria uma proteção nas fibras que faz líquido escorrer em vez de manchar. Dura até 1 ano com o uso normal.\nCombo:\nhigienização + impermeabilização do sofá 3 lugares por R$ 490\n.\nSofá 2 lugares\nR$ 280\nSofá 3 lugares\nR$ 340\nRetrátil 3 lugares\nR$ 420\nPoltrona\nR$ 150\nCadeira\nR$ 45\nValores para Ribeirão Preto. Taxa de deslocamento de R$ 30 em pedidos abaixo de R$ 200. Marca fictícia criada para portfólio."
+      },
+      {
+        "imagem": "pagina-03.webp",
+        "texto": "TH\nTH EstofadosHIGIENIZAÇÃO A DOMICÍLIO\nCOMO FUNCIONA · 03\nA sujeira sai de dentro.\nLimpeza com pano tira o que está em cima. A extratora lava a espuma por dentro, onde ficam os ácaros e o cheiro.\nESPUMA DO ESTOFADO\nINJEÇÃOsolução + água morna\nSUCÇÃOextratora\nácaros · poeira · gordura · urina\n01Aspiração\nTira o pó e os resíduos soltos da superfície.\n02Pré-tratamento\nProduto biodegradável aplicado no tecido para soltar a sujeira.\n03Escovação\nEscova macia para o produto agir nas fibras.\n04Extração\nA máquina injeta água morna e suga tudo de volta.\n05Neutralizador\nElimina odores e deixa perfume suave.\nÁgua que saiu de um sofá de 3 lugares\nO que a gente tira\nÁcaros\nPoeira\nGordura do corpo\nOdor de pet\nXixi de criança e pet\nCafé e refrigerante\nMofo e bolor\nSuor\nFungos e bactérias\nCheiro de cigarro\nSendo sincero:\nmanchas antigas de caneta, tinta, ferrugem ou água sanitária podem clarear, mas nem sempre saem 100%. Avisamos na avaliação, antes de começar.\nMarca fictícia criada para portfólio. Valores e imagens ilustrativos."
+      },
+      {
+        "imagem": "pagina-04.webp",
+        "texto": "TH\nTH EstofadosHIGIENIZAÇÃO A DOMICÍLIO\nAGENDAMENTO · 04\nAgendou, tá limpo.\nTempo de secagem COM JANELA ABERTA OU VENTILADOR\n0 h\nfim do serviço\n4 a 6 h\ntecidos comuns\n8 a 12 h\ncolchão e veludo\n24 h\npronto pra uso pesado\nAntes da nossa visita\nTire almofadas soltas, mantas e objetos de cima\nDeixe uma tomada perto do estofado\nUm ponto de água (tanque ou banheiro) para a máquina\nPrenda os pets em outro cômodo durante o serviço\nDepois do serviço\nDeixe ventilar e evite sentar até secar ao toque\nNão cubra com lençol ou capa enquanto estiver úmido\nRepita a cada 6 meses, ou 4 se tem pet ou criança\nNão use secador quente nem passe ferro\nCOLCHÕES\nBANCOS DE CARRO\nPlano manutenção\nHigienize de novo em até 6 meses e ganhe 15% de desconto. Lembramos você pelo WhatsApp.\n15% offna revisão semestral\nORÇAMENTO POR FOTO\n(16) 99999-1345\nMande uma foto do estofado e o bairro no WhatsApp.\n@thestofados\nSeg a sáb\n· 8h às 18h\nAtendemos\n· Ribeirão Preto, Cravinhos e Sertãozinho\nPagamento\n· Pix com 5% off ou cartão em 3×\nEmpresas\n· consultórios, salões e frotas\nMarca fictícia criada para portfólio. Valores e imagens ilustrativos."
+      }
+    ]
   }
 ];
