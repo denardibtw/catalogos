@@ -500,5 +500,38 @@ window.CATALOGOS = [
         "texto": "WM Estética\nAUTOMOTIVA\nPPF E AGENDAMENTO · 04\nPPF: película que\nprotege a pintura.\n1\n2\n3\n4\nPPF é uma película transparente que protege a pintura de pedrisco, riscos e marcas do dia a dia.\nPPF FRONTAL\nPara-choque dianteiro (1)\nR$ 2.800,00\nPPF KIT FRONTAL\nCapô, retrovisores, para-lamas e para-choque (1 a 4)\nR$ 5.800,00\n1para-choque\n2capô\n3retrovisores\n4para-lamas\nHorário de atendimento\nSEG A SEX\n7h30 às 12h13h30 às 17h30\nSÁBADO\n7h30 às 12h\n7h\n8h\n9h\n10h\n11h\n12h\n13h\n14h\n15h\n16h\n17h\n18h\nAGENDE PELO WHATSAPP\n(69) 99938-3322\nRua Emília Gripa, 313 · próximo aos Correios\nEnvie o modelo do carro e o serviço desejado. Respondemos com os horários disponíveis."
       }
     ]
+  },
+  {
+    "id": "zeca",
+    "nome": "Zeca's Hamburgueria & Pizzaria",
+    "titulo": "Zeca's | Hamburgueria & Pizzaria",
+    "nicho": "Hamburgueria e pizzaria",
+    "grupo": "Gastronomia",
+    "formato": "A4 · PDF",
+    "descricao": "Cardápio retrô com mascote: tamanhos de pizza, sabores tradicionais, especiais e doces, burgers artesanais e combos.",
+    "acao": "Explorar cardápio",
+    "cores": {
+      "capa": "radial-gradient(ellipse at 50% 65%, #e0452f, #a11d15 60%, #5c120c)",
+      "destaque": "#ffb703"
+    },
+    "pdf": "Zecas_Hamburgueria_Pizzaria_Cardapio_2027.pdf",
+    "paginas": [
+      {
+        "imagem": "pagina-01.webp",
+        "texto": "Zeca's\nHAMBURGUERIA & PIZZARIA\nCARDÁPIO 2027\nWHATSAPP (16) 99999-0274\nIFOOD ZECA'S\nINSTAGRAM @ZECASLANCHES"
+      },
+      {
+        "imagem": "pagina-02.webp",
+        "texto": "Zeca's\nHAMBURGUERIA & PIZZARIA\nESCOLHA O\nTamanho\nBroto\n25 cm · 4 fatias\n1 sabor\na partir de\nR$ 34,90\nMédia\n30 cm · 6 fatias\naté 2 sabores\na partir de\nR$ 46,90\nGrande\n35 cm · 8 fatias\naté 2 sabores\na partir de\nR$ 59,90\nFamília\n40 cm · 12 fatias\naté 3 sabores\na partir de\nR$ 74,90\nBorda recheada\nCatupiry, cheddar, cream cheese ou chocolate: broto + R$ 8,00 · média + R$ 10,00 · grande + R$ 12,00 · família + R$ 14,00. Meio a meio cobra o sabor de maior valor.\nTradicionais\n01Mussarela\nMolho de tomate, mussarela, tomate e orégano.\n02Calabresa\nCalabresa fatiada, cebola, azeitona e orégano.\n03Portuguesa\nPresunto, mussarela, ovo, ervilha, cebola e azeitona.\n04Frango com catupiry\nFrango desfiado temperado e catupiry.\n05Marguerita\nMussarela, tomate, manjericão fresco e parmesão.\n06Napolitana\nMussarela, tomate em rodelas e parmesão.\n07Toscana\nCalabresa moída, mussarela e cebola.\n08Baiana\nCalabresa moída apimentada, ovo, cebola e pimenta.\n09Atum\nAtum sólido, cebola e mussarela.\n10Bacon\nMussarela, bacon em cubos e milho.\n11Milho\nMussarela, milho verde e orégano.\n12Presunto\nPresunto, mussarela e orégano.\nCombo família\nPizza grande tradicional + refrigerante 2 L.\nR$ 69,90\nMarca fictícia criada para portfólio. Valores e imagens ilustrativos."
+      },
+      {
+        "imagem": "pagina-03.webp",
+        "texto": "Zeca's\nHAMBURGUERIA & PIZZARIA\nDA CASA\nEspeciais\nValor da tradicional no tamanho escolhido, mais o adicional de cada sabor.\n13Quatro queijos+ R$ 8,00\nMussarela, provolone, gorgonzola e catupiry.\n14Pepperoni+ R$ 8,00\nMussarela e pepperoni fatiado.\n15Zeca's+ R$ 8,00\nCalabresa, bacon, cheddar, cebola caramelizada e barbecue.\n16Strogonoff de frango+ R$ 8,00\nStrogonoff, mussarela e batata palha.\n17Costela desfiada+ R$ 10,00\nCostela, catupiry e cebola roxa.\n18Carne seca+ R$ 10,00\nCarne seca acebolada e catupiry.\n19Lombo com catupiry+ R$ 8,00\nLombo canadense, catupiry e mussarela.\n20Camarão+ R$ 15,00\nCamarão ao molho, catupiry e mussarela.\nDoces\nBroto ou média, pelo mesmo valor da tradicional. Combine meio salgada, meio doce.\n21Chocolate com morango\nChocolate ao leite e morango fresco.\n22Brigadeiro\nChocolate e granulado.\n23Prestígio\nChocolate e coco ralado.\n24Romeu e Julieta\nGoiabada cremosa e mussarela.\n25Banana com canela\nBanana, açúcar e canela.\n26Ovomaltine\nChocolate branco e Ovomaltine crocante.\n27Churros\nDoce de leite, açúcar e canela.\n28Sensação\nChocolate, morango e leite condensado.\nMarca fictícia criada para portfólio. Valores e imagens ilustrativos."
+      },
+      {
+        "imagem": "pagina-04.webp",
+        "texto": "Zeca's\nHAMBURGUERIA & PIZZARIA\nOS MAIS\nPedidos\n51Zeca's smash duploR$ 32,90\nDois smash de 90 g, cheddar duplo, cebola, picles e molho da casa no brioche.\n52Bacon loverR$ 38,90\nBlend 160 g, cheddar, bacon crocante, cebola caramelizada e maionese defumada.\nCombo: + batata frita 120 g e refri lata por + R$ 15,90\nArtesanais\nPão brioche na manteiga e blend de carne bovina de 160 g.\n53ClassicR$ 29,90\nBlend 160 g, queijo prato, alface, tomate e maionese da casa.\n54Cheddar meltR$ 34,90\nBlend 160 g, cheddar cremoso e cebola crispy.\n55CostelaR$ 39,90\nBlend de costela 160 g, queijo coalho e barbecue.\n56Frango crispyR$ 30,90\nFilé empanado, alface, tomate e maionese verde.\n57SaladaR$ 31,90\nBlend 160 g, mussarela, alface, tomate e cebola roxa.\n58KidsR$ 24,90\nBlend 90 g, mussarela e ketchup. Vem com batata pequena.\nSmash\nSmash simplesR$ 22,90\nSmash duploR$ 29,90\nSmash triploR$ 36,90\nAdicionais\nBaconR$ 5,00\nCheddarR$ 4,00\nOvoR$ 3,00\nBlend extra 160 gR$ 9,00\nCatupiryR$ 4,00\nBebidas\nRefri lataR$ 6,50\nRefri 2 LR$ 15,00\nSuco natural 500 mlR$ 10,00\nÁguaR$ 4,00\nWHATSAPP\n(16) 99999-0274\nHORÁRIO\nTer a dom, 18h às 23h30\nENTREGA\nTaxa a partir de R$ 5,00\nou retire no balcão\nPAGAMENTO\nPix, cartão e dinheiro\n@zecaslanches\nMarca fictícia criada para portfólio. Valores e imagens ilustrativos."
+      }
+    ]
   }
 ];
