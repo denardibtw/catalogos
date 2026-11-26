@@ -467,5 +467,38 @@ window.CATALOGOS = [
         "texto": "TH\nTH EstofadosHIGIENIZAÇÃO A DOMICÍLIO\nAGENDAMENTO · 04\nAgendou, tá limpo.\nTempo de secagem COM JANELA ABERTA OU VENTILADOR\n0 h\nfim do serviço\n4 a 6 h\ntecidos comuns\n8 a 12 h\ncolchão e veludo\n24 h\npronto pra uso pesado\nAntes da nossa visita\nTire almofadas soltas, mantas e objetos de cima\nDeixe uma tomada perto do estofado\nUm ponto de água (tanque ou banheiro) para a máquina\nPrenda os pets em outro cômodo durante o serviço\nDepois do serviço\nDeixe ventilar e evite sentar até secar ao toque\nNão cubra com lençol ou capa enquanto estiver úmido\nRepita a cada 6 meses, ou 4 se tem pet ou criança\nNão use secador quente nem passe ferro\nCOLCHÕES\nBANCOS DE CARRO\nPlano manutenção\nHigienize de novo em até 6 meses e ganhe 15% de desconto. Lembramos você pelo WhatsApp.\n15% offna revisão semestral\nORÇAMENTO POR FOTO\n(16) 99999-1345\nMande uma foto do estofado e o bairro no WhatsApp.\n@thestofados\nSeg a sáb\n· 8h às 18h\nAtendemos\n· Ribeirão Preto, Cravinhos e Sertãozinho\nPagamento\n· Pix com 5% off ou cartão em 3×\nEmpresas\n· consultórios, salões e frotas\nMarca fictícia criada para portfólio. Valores e imagens ilustrativos."
       }
     ]
+  },
+  {
+    "id": "wm",
+    "nome": "WM Estética Automotiva",
+    "titulo": "WM Estética Automotiva | Tabela de serviços",
+    "nicho": "Estética automotiva",
+    "grupo": "Serviços",
+    "formato": "A4 · PDF",
+    "descricao": "Tabela de serviços desenvolvida para a WM Estética Automotiva: lavagem, higienização, polimento, vitrificação e PPF por porte do veículo.",
+    "acao": "Ver tabela",
+    "cores": {
+      "capa": "radial-gradient(ellipse at 50% 65%, #3a3218, #0d0d0d 62%)",
+      "destaque": "#f4c515"
+    },
+    "pdf": "WM_Estetica_Automotiva_Tabela_2027.pdf",
+    "paginas": [
+      {
+        "imagem": "pagina-01.webp",
+        "texto": "WM Estética\nAUTOMOTIVA\nAlto padrão\nem cada detalhe.\nUm espaço para quem gosta de carro: lavagem, higienização, polimento, vitrificação e PPF, com o cuidado de quem também é apaixonado por automóveis.\n2027TABELA DE\nSERVIÇOS\nRUA EMÍLIA GRIPA, 313 · PRÓXIMO AOS CORREIOS\n(69) 99938-3322  WHATSAPP"
+      },
+      {
+        "imagem": "pagina-02.webp",
+        "texto": "WM Estética\nAUTOMOTIVA\nLAVAGEM E HIGIENIZAÇÃO · 02\nEscolha o serviço,\nache seu carro.\nSERVIÇO\nCARRO BAIXO\nCAMINHONETE / SUV\nLavagem\n01\nLavagem simples\nLavagem externa, aspiração interna, vidros e pretinho nos pneus.\nR$\n80,00\nR$\n100,00\n02\nLavagem com cera\nLavagem completa com cera protetora na pintura.\nR$\n100,00\nR$\n150,00\n03\nLavagem com revitalização\nLavagem com cera e hidratação dos plásticos e borrachas.\nR$\n150,00\nR$\n180,00\nHigienização\n04\nHigienização simples\nBancos, carpetes, teto e portas limpos com extratora.\nR$\n380,00\nR$\n450,00\n05\nHigienização completa com motor\nHigienização interna completa e limpeza do motor.\nR$\n550,00\nR$\n750,00\n06\nAmericana\nDesmontagem completa do interior para limpeza profunda de cada peça.\nR$\n900,00\nR$\n1.500,00\nCarro baixo:\nhatch, sedã e esportivo. Caminhonete / SUV:\npicape, SUV e utilitário.\nHigienização de motor\navulsa, qualquer porte\nR$ 120,00\nHigienização da parte de baixo\ncaixas de roda e assoalho\nR$ 80,00\nWM ESTÉTICA AUTOMOTIVA · RUA EMÍLIA GRIPA, 313 · PRÓXIMO AOS CORREIOS\n02 / 04"
+      },
+      {
+        "imagem": "pagina-03.webp",
+        "texto": "WM Estética\nAUTOMOTIVA\nBRILHO E PROTEÇÃO · 03\nPintura de\nvitrine.\nPOLIMENTO · CARRO BAIXO\nR$ 500,00 a 900,00\nCorrige riscos finos, manchas e opacidade.\nPOLIMENTO · CAMINHONETE / SUV\nR$ 1.000,00 a 1.800,00\nO valor final sai na avaliação da pintura.\nVitrificação\nCamada de proteção sobre a pintura que realça o brilho e facilita a lavagem. Mesmo valor para carro e caminhonete.\n1\nANO DE PROTEÇÃO\nR$ 899,00\n2\nANOS DE PROTEÇÃO\nR$ 1.500,00\n3\nANOS DE PROTEÇÃO\nR$ 2.800,00\nPolimento de farol\nTira o amarelado e devolve a transparência.\nR$ 180,00 a 200,00\nCristalização de vidros\nA chuva escorre do para-brisa. Dura 1 ano.\nR$ 250,00\nWM ESTÉTICA AUTOMOTIVA · RUA EMÍLIA GRIPA, 313 · PRÓXIMO AOS CORREIOS\n03 / 04"
+      },
+      {
+        "imagem": "pagina-04.webp",
+        "texto": "WM Estética\nAUTOMOTIVA\nPPF E AGENDAMENTO · 04\nPPF: película que\nprotege a pintura.\n1\n2\n3\n4\nPPF é uma película transparente que protege a pintura de pedrisco, riscos e marcas do dia a dia.\nPPF FRONTAL\nPara-choque dianteiro (1)\nR$ 2.800,00\nPPF KIT FRONTAL\nCapô, retrovisores, para-lamas e para-choque (1 a 4)\nR$ 5.800,00\n1para-choque\n2capô\n3retrovisores\n4para-lamas\nHorário de atendimento\nSEG A SEX\n7h30 às 12h13h30 às 17h30\nSÁBADO\n7h30 às 12h\n7h\n8h\n9h\n10h\n11h\n12h\n13h\n14h\n15h\n16h\n17h\n18h\nAGENDE PELO WHATSAPP\n(69) 99938-3322\nRua Emília Gripa, 313 · próximo aos Correios\nEnvie o modelo do carro e o serviço desejado. Respondemos com os horários disponíveis."
+      }
+    ]
   }
 ];
